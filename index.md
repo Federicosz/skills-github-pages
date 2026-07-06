@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: My new dream job! One step at a time
 ---
